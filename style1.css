@@ -1,0 +1,30 @@
+#cv-template{
+    display:none;
+}
+.myimg{
+    border:1px solid black;
+    border-radius: 50%;
+    width: 200px;   
+}
+.background{
+    background-color:#713ABE;
+}   
+body{
+    background-color:#5B0888;
+}
+.ab{
+    background-color: #5F264A;
+}
+.form-control{
+    display: block;
+    width: 100%; /* THIS */
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555; /* THIS */
+    background-color: #E5CFF7;
+    background-image: none;
+    border: 1px solid #ccc; /* THIS */
+    border-radius: 4px; /* THIS */
+  }
